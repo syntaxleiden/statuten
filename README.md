@@ -1,4 +1,7 @@
-https://github.com/adam-p
+>Hierbij een bekonopte handleiding van hoe je kunt bijdragen als lid aan statuten en andere documenten
+
+>*Bron https://github.com/adam-p*
+
 You can play around with Markdown on our [live demo page](http://www.markdown-here.com/livedemo.html).
 
 ##### Table of Contents  
