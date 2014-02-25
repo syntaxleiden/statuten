@@ -10,49 +10,63 @@ Statuten van S.V. Syntax Leiden
 1. De vereniging draagt de naam: Studievereniging Syntax
 2. De vereniging is gevestigd in de gemeente Leiden
 3. De vereniging wordt bij deze akte opgericht en is aangegaan voor onbepaalde tijd
+
 **Doel**
 **Artikel 2.**
+
 1. De vereniging heeft ten doel, het bevorderen, respectievelijk het doen bevorderen van:
-a. de contacten tussen studenten en medewerkers van de opleiding Informatica aan de Hogeschool Leiden en voorts het organiseren van studiegerichte, dan wel ontspannende activiteiten;
-b. de kwaliteit van de opleiding zelve;
-c. het vinden respectievelijk aanbieden van stage- en carriëre posities.
-De vereniging tracht dit doel ondermeer te bereiken door:
-het bevorderen en organiseren van, of medewerking verlenen aan activiteiten, waarbij de studie respectievelijk het vakgebied centraal staat;
-het organiseren van, of medewerking verlenen aan activiteiten, welke ten doel hebben een band te scheppen tussen studenten van voormelde opleiding;
-zorg te dragen voor de vertegenwoordiging van studenten binnen voormelde opleiding, daar waar behartigen van student-belangen gewenst kan zijn;
-en voorts, door gebruik te maken van alle wettige middelen die aan het doel van de vereniging dienstbaar kunnen zijn.
-Leden
-Artikel 3.
-Leden van de vereniging zijn de natuurlijke personen, die als student, als auditor of extraneus van genoemde opleiding Informatica staan ingeschreven en die door het bestuur als lid zijn toegelaten.
-Aanmeldingen voor het lidmaatschap dient schiftelijk te geschieden.
-De leden zijn gehouden tot het betalen van een jaarlijkse bijdrage(contributie), die door de algemene vergadering wordt vastgesteld.
-Het bestuur is bevoegd in bijzondere gevallen gehele of gedeeltelijke ontheffing van de verplichting tot het betalen van een bijdragen te verlenen. Een dergelijk besluit behoeft drie/vierde meerderheid van stemmen in een vergadering, waarin het hele bestuur aanwezig is.
-Het bestuur houdt een register bij waarin de namen en adressen van alle leden zijn opgenomen.
-Het lidmaatschap is persoonlijk en mitsdien niet overdraagbaar noch vatbaar om door erfopvolging te worden verkregen.
 
+    a. de contacten tussen studenten en medewerkers van de opleiding Informatica aan de Hogeschool Leiden en voorts het organiseren van studiegerichte, dan wel ontspannende activiteiten;
+    
+    b. de kwaliteit van de opleiding zelve;
+    
+    c. het vinden respectievelijk aanbieden van stage- en carriëre posities.
+    
+2. De vereniging tracht dit doel ondermeer te bereiken door:
 
-
-Erelede/leden van verdienste
-Artikel 4.
-Ereleden van de vereniging zijn zij, die als zodanig, op voordracht van het bestuur of tenminste vijf leden, door de algemene vergadering zijn benoemd wegens hun bijzondere verdiensten voor vereniging.  Een dergelijk besluit van de algemene vergadering behoeft een meerderheid van twee/derde van de geldig uitgebrachte stemmen.
-Ereleden betalen geen jaarlijkse bijdrage.
-Leden van verdienste zijn zij die als zodanig, op voordracht van het bestuur of tenminste vijf leden door de algemene vergadering zijn benoemd wegens hun bijzondere verdiensten voor de vereniging
-In na te melden huishoudelijk reglement kan een nadere omschrijving worden gegeven van ereleden en leden van verdienste.
-Op ereleden en leden van verdienste zijn dezelfde regens van toepassing
+    a. het bevorderen en organiseren van, of medewerking verlenen aan activiteiten, waarbij de studie respectievelijk het vakgebied centraal staat;
+    
+    b. het organiseren van, of medewerking verlenen aan activiteiten, welke ten doel hebben een band te scheppen tussen studenten van voormelde opleiding;
+    
+    c. zorg te dragen voor de vertegenwoordiging van studenten binnen voormelde opleiding, daar waar behartigen van student-belangen gewenst kan zijn;
+    
+    d. en voorts, door gebruik te maken van alle wettige middelen die aan het doel van de vereniging dienstbaar kunnen zijn.
+    
+**Leden**
 
-Begunstigers
-Artikel 5.
-Begunstigers (natuurlijke of rechtspersonen) van de vereniging zijn zij, die zich bereid hebben verklaard de vereniging financieel te steunen met een door de algemene vergadering vast te stellen minimum-bijdrage (donatie).
-Begunstigers hebben geen andere rechten en verplichtingen dan die, welke heb nij of krachtens de statuten zijn toegekend of opgelegd.
-De rechten en verplichtingen van een begunstiger kunnen te allen tijde wederzijds door opzegging worden beëindigd, behoudens dat de jaarlijkse bijdrage over het lopende verenigingsjaar voor het geheel verschuldigd blijft. Opzegging door de vereniging geschiedt door het bestuur.
+**Artikel 3.**
 
-Einde lidmaatschap
-Artikel 6.
-Het lidmaatschap eindigt:
-door opzegging van het lid;
-door de dood van het lid;
-door opzegging namens de vereniging.
-Deze kan geschieden wanneer een lid heeft opgehouden aan de vereisten voor het lidmaatschap bij de statuten gesteld te voldoen, wanneer hij zijn verplichtingen jegens de vereniging niet nakomt, als ook wanneer redelijkerwijs van de vereniging niet gevergd kan worden het lidmaatschap te laten voortduren;
+1. Leden van de vereniging zijn de natuurlijke personen, die als student, als auditor of extraneus van genoemde opleiding Informatica staan ingeschreven en die door het bestuur als lid zijn toegelaten.
+2. Aanmeldingen voor het lidmaatschap dient schiftelijk te geschieden.
+3. De leden zijn gehouden tot het betalen van een jaarlijkse bijdrage(contributie), die door de algemene vergadering wordt vastgesteld.
+4. Het bestuur is bevoegd in bijzondere gevallen gehele of gedeeltelijke ontheffing van de verplichting tot het betalen van een bijdragen te verlenen. Een dergelijk besluit behoeft drie/vierde meerderheid van stemmen in een vergadering, waarin het hele bestuur aanwezig is.
+5. Het bestuur houdt een register bij waarin de namen en adressen van alle leden zijn opgenomen.
+6. Het lidmaatschap is persoonlijk en mitsdien niet overdraagbaar noch vatbaar om door erfopvolging te worden verkregen.
+
+**Erelede/leden van verdienste**
+**Artikel 4.**
+1. Ereleden van de vereniging zijn zij, die als zodanig, op voordracht van het bestuur of tenminste vijf leden, door de algemene vergadering zijn benoemd wegens hun bijzondere verdiensten voor vereniging.  Een dergelijk besluit van de algemene vergadering behoeft een meerderheid van twee/derde van de geldig uitgebrachte stemmen.
+2. Ereleden betalen geen jaarlijkse bijdrage.
+3. Leden van verdienste zijn zij die als zodanig, op voordracht van het bestuur of tenminste vijf leden door de algemene vergadering zijn benoemd wegens hun bijzondere verdiensten voor de vereniging
+4. In na te melden huishoudelijk reglement kan een nadere omschrijving worden gegeven van ereleden en leden van verdienste.
+5. Op ereleden en leden van verdienste zijn dezelfde regens van toepassing
+
+**Begunstigers**
+**Artikel 5.**
+1. Begunstigers (natuurlijke of rechtspersonen) van de vereniging zijn zij, die zich bereid hebben verklaard de vereniging financieel te steunen met een door de algemene vergadering vast te stellen minimum-bijdrage (donatie).
+2. Begunstigers hebben geen andere rechten en verplichtingen dan die, welke heb nij of krachtens de statuten zijn toegekend of opgelegd.
+3. De rechten en verplichtingen van een begunstiger kunnen te allen tijde wederzijds door opzegging worden beëindigd, behoudens dat de jaarlijkse bijdrage over het lopende verenigingsjaar voor het geheel verschuldigd blijft. Opzegging door de vereniging geschiedt door het bestuur.
+
+**Einde lidmaatschap**
+**Artikel 6.**
+1. Het lidmaatschap eindigt:
+
+    a. door opzegging van het lid;
+
+    b. door de dood van het lid;
+    
+    c. door opzegging namens de vereniging.
+     Deze kan geschieden wanneer een lid heeft opgehouden aan de vereisten voor het lidmaatschap bij de statuten gesteld te voldoen, wanneer hij zijn verplichtingen jegens de vereniging niet nakomt, als ook wanneer redelijkerwijs van de vereniging niet gevergd kan worden het lidmaatschap te laten voortduren;
 door ontzegging.
 Deze kan alleen worden uitgesproken wanneer een lid in strijd met de statuten, reglementen of besluiten der vereniging handelt, of de vereniging op onredelijke wijze benadeelt.
 Opzegging namens de vereniging geschiedt door het bestuur.
