@@ -208,7 +208,7 @@ Bij de behandeling van de schorsing heeft het geschorste lid de bevoegdheid voor
 2. Iemand die onbekwaam is rechtshandelingen uit te verrichten kan in de vergadering geen stem uitbrengen. De uitoefening van het stemrecht komt toe aan de wettelijke vertegenwoordiger van de onbekwame. 
 Ten aanzien van minderjarige leden, die zestien jaar of ouder zijn, geldt dat zij binnen de vereniging geacht worden handelingsbekwaam zijn, zodat zij actief en passief stemrecht en alle rechten en verplichtingen hebben, die meerderjarige leden ook hebben, tenzij uitdrukkelijk ander bepaald.
 3. Een lid kan zijn stem door een schriftelijk daartoe gemachtigd ander lid doen uitbrengen, met dien verstande dat niemand voor meer dan één ander lid stem kan uitbrengen. 
-4. Een lid heeft geen stemrecht over zaken, die hem, zijn echtgenoot/partner of één van zijn bloed- of aanverwanten in de rechte lijn betreffen. **WAT IS DEZE**
+4. Een lid heeft geen stemrecht over zaken, die hem, zijn echtgenoot/partner of één van zijn bloed- of aanverwanten in de rechte lijn betreffen.
 
 **Besluitvorming**
 
