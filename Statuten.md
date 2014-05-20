@@ -36,8 +36,8 @@ Statuten van S.V. Syntax Leiden
 
 ### Artikel 3.
 
-1. Leden van de vereniging zijn de natuurlijke personen, die als student, als auditor of extraneus van genoemde opleiding Informatica staan ingeschreven en die door het bestuur als lid zijn toegelaten.
-2. Aanmeldingen voor het lidmaatschap dient schiftelijk te geschieden.
+1. Leden van de vereniging zijn de natuurlijke personen, die als student, als auditor of extraneus bij de Hogeschool Leiden staan ingeschreven en die door het bestuur als lid zijn toegelaten.
+2. Aanmeldingen voor het lidmaatschap dienen schiftelijk of digitaal te geschieden.
 3. De leden zijn gehouden tot het betalen van een jaarlijkse bijdrage(contributie), die door de algemene vergadering wordt vastgesteld.
 4. Het bestuur is bevoegd in bijzondere gevallen gehele of gedeeltelijke ontheffing van de verplichting tot het betalen van een bijdragen te verlenen. Een dergelijk besluit behoeft drie/vierde meerderheid van stemmen in een vergadering, waarin het hele bestuur aanwezig is.
 5. Het bestuur houdt een register bij waarin de namen en adressen van alle leden zijn opgenomen.
@@ -124,6 +124,7 @@ De geldmiddelen van de vereniging bestaan uit de contributies van de gewone lede
     
 9. De algemene vergadering kan een bestuurslid schorsen of ontslaan, indien zij daartoe termen aanwezig acht. Voor een dergelijk besluit in een meerderheid, vereist van tenminste twee/derde van de geldig uitgebrachte stemmen.
 10. De bestuurders zijn bevoegd te alle tijde zelf hun ontslag te nemen, mits dit schriftelijk geschiedt met een opzeggingstermijn van ten minste drie maanden.
+11. Bestuursposities zijn enkel voor leden die ingeschreven staan bij de opleiding Informatica aan de Hogeschool Leiden.
 
 ## Taken, vertegenwoordiging en bevoegdheden bestuur
 
