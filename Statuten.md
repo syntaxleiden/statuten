@@ -7,7 +7,7 @@ Statuten van S.V. Syntax Leiden
 ### Artikel 1.
 
 1. De vereniging draagt de naam: Studievereniging Syntax
-2. De vereniging is gevestigd in de gemeente Leiden
+2. De vereniging is gevestigd in de gemeente Haarlem
 3. De vereniging wordt bij deze akte opgericht en is aangegaan voor onbepaalde tijd
 
 ## Doel
@@ -16,13 +16,13 @@ Statuten van S.V. Syntax Leiden
 
 1. De vereniging heeft ten doel, het bevorderen, respectievelijk het doen bevorderen van:
 
-    a. de contacten tussen studenten en medewerkers van de opleiding Informatica aan de Hogeschool Leiden en voorts het organiseren van studiegerichte, dan wel ontspannende activiteiten;
+    a. de contacten tussen studenten onderling en tussen studenten en medewerkers van de opleiding Informatica aan de Hogeschool Leiden en voorts het organiseren van studiegerichte, dan wel ontspannende activiteiten;
     
     b. de kwaliteit van de opleiding zelve;
     
-    c. het vinden respectievelijk aanbieden van stage- en carriëre posities.
+    c. het vinden respectievelijk aanbieden van stage- en carrière posities en het vergroten van betrokkenheid van de studenten van de voorgenoemde opleiding in het werkveld.
     
-2. De vereniging tracht dit doel ondermeer te bereiken door:
+2. De vereniging tracht dit doel onder meer te bereiken door:
 
     a. het bevorderen en organiseren van, of medewerking verlenen aan activiteiten, waarbij de studie respectievelijk het vakgebied centraal staat;
     
@@ -36,22 +36,21 @@ Statuten van S.V. Syntax Leiden
 
 ### Artikel 3.
 
-1. Leden van de vereniging zijn de natuurlijke personen, die als student, als auditor of extraneus bij de Hogeschool Leiden staan ingeschreven en die door het bestuur als lid zijn toegelaten.
-2. Aanmeldingen voor het lidmaatschap dienen schiftelijk of digitaal te geschieden.
+1. Leden van de vereniging zijn de natuurlijke personen die door het bestuur als lid zijn toegelaten, daarbij wordt onderscheid gemaakt tussen: personen die ingeschreven staan bij de opleiding Informatica aan de Hogeschool Leiden, alumni (afgestudeerde studenten Informatica aan de Hogeschool Leiden) en leden buiten de opleiding Informatica aan de Hogeschool Leiden.
+2. Aanmeldingen voor het lidmaatschap dienen schriftelijk of digitaal te geschieden.
 3. De leden zijn gehouden tot het betalen van een jaarlijkse bijdrage(contributie), die door de algemene vergadering wordt vastgesteld.
 4. Het bestuur is bevoegd in bijzondere gevallen gehele of gedeeltelijke ontheffing van de verplichting tot het betalen van een bijdragen te verlenen. Een dergelijk besluit behoeft drie/vierde meerderheid van stemmen in een vergadering, waarin het hele bestuur aanwezig is.
 5. Het bestuur houdt een register bij waarin de namen en adressen van alle leden zijn opgenomen.
 6. Het lidmaatschap is persoonlijk en mitsdien niet overdraagbaar noch vatbaar om door erfopvolging te worden verkregen.
 
-## Erelede/leden van verdienste
+## Ereleden
 
 ### Artikel 4.
 
-1. Ereleden van de vereniging zijn zij, die als zodanig, op voordracht van het bestuur of tenminste vijf leden, door de algemene vergadering zijn benoemd wegens hun bijzondere verdiensten voor vereniging.  Een dergelijk besluit van de algemene vergadering behoeft een meerderheid van twee/derde van de geldig uitgebrachte stemmen.
+1. Ereleden van de vereniging zijn zij, die als zodanig, op voordracht van het bestuur of tenminste vijf leden, door de algemene vergadering zijn benoemd wegens hun bijzondere verdiensten voor de vereniging. Een dergelijk besluit van de algemene vergadering behoeft een meerderheid van twee/derde van de geldig uitgebrachte stemmen.
 2. Ereleden betalen geen jaarlijkse bijdrage.
-3. Leden van verdienste zijn zij die als zodanig, op voordracht van het bestuur of tenminste vijf leden door de algemene vergadering zijn benoemd wegens hun bijzondere verdiensten voor de vereniging
-4. In na te melden huishoudelijk reglement kan een nadere omschrijving worden gegeven van ereleden en leden van verdienste.
-5. Op ereleden en leden van verdienste zijn dezelfde regens van toepassing
+3. In na te melden huishoudelijk reglement kan een nadere omschrijving worden gegeven van ereleden.
+4. Op ereleden zijn dezelfde regels van toepassing als voor andere leden.
 
 ## Begunstigers
 
@@ -69,7 +68,7 @@ Statuten van S.V. Syntax Leiden
 
     a. door opzegging van het lid;
 
-    b. door de dood van het lid;
+    b. door het overlijden van het lid;
     
     c. door opzegging namens de vereniging.
 
@@ -80,9 +79,9 @@ Statuten van S.V. Syntax Leiden
 3. Opzegging van het lidmaatschap door het lid of door de vereniging kan slechts geschieden met inachtneming van een opzeggingstermijn van vier weken. Echter kan het lidmaatschap onmiddellijk worden beëindigd indien van de vereniging of van het lid redelijkerwijs niet gevergd kan worden het lidmaatschap te laten voortduren.
 4. Een opzegging in strijd met het bepaalde in het vorige lid, doet het lidmaatschap eindigen op het vroegst toegelaten tijdstip volgende op de datum waartegen was opgezegd.
 5. Een lid is niet bevoegd door opzegging van zijn lidmaatschap een besluit waarbij de verplichtingen van de leden van geldelijke aard zijn verzwaard, te zijnen opzichte uit te sluiten. 
-6. Ontzetting uit het lidmaatschap geschiedt door het bestuur
+6. Ontzetting uit het lidmaatschap geschiedt door het bestuur.
 7. Van een besluit tot opzegging van het lidmaatschap door de vereniging op grond dat redelijkerwijs van de vereniging niet gevergd kan worden het lidmaatschap te laten voortduren van een besluit tot ontzetting uit het lidmaatschap staat de betrokkene binnen één maand na de ontvangst van de kennisgeving van het besluit beroep open op de algemene vergadering. 
-Hij wordt daartoe ten spoedigste schriftelijk van het besluit met opgave van redenen in kennis gesteld. Gedurende de beroepstermijn en hangende het beroep is het lid geschorst.
+Hij wordt daartoe ten spoedigste schriftelijk van het besluit met opgave van redenen in kennis gesteld. Gedurende de beroepstermijn en hangende het beroep is het lid geschorst. De algemene vergaderingen worden bijeengeroepen door het bestuur. De oproeping geschiedt hetzij schriftelijk of digitaal aan de adressen van de leden volgens het ledenregister, hetzij door aankondiging op de website. De termijn voor oproeping bedraagt tenminste twee weken.
 8. Wanneer het lidmaatschap in de loop van een verenigingsjaar eindigt, blijft de jaarlijkse bijdrage voor het geheel verschuldigd. 
 
 ## Geldmiddelen
@@ -95,16 +94,17 @@ De geldmiddelen van de vereniging bestaan uit de contributies van de gewone lede
 
 ### Artikel 8.
 
-1. Het bestuur bestaat uit tenminste drie personen, die door de algemene vergadering uit de leden van de vereniging worden benoemd, met dienverstande, dat bij deze akte de eerste voorzitter, secretaris en penningmeester worden benoemd.
-2. De benoeming van bestuurdleden geschiedt uit één of meer bindende voordrachten (kandidaatstellingen). Tot het openmaken van zulk een voordracht zijn bevoegd zowel het bestuur als tenminste tien leden.
+1. Het bestuur bestaat uit tenminste drie personen, die door de algemene vergadering uit de leden van de vereniging worden benoemd, met dien verstande, dat bij deze akte de eerste voorzitter, secretaris en penningmeester worden benoemd.
+2. De benoeming van bestuursleden geschiedt uit één of meer bindende voordrachten (kandidaatstellingen). Tot het opmaken van zulk een voordracht zijn bevoegd zowel het bestuur als tenminste tien leden.
 3. Indien in een vacature slechts één kandidaat is gesteld, wordt deze als ge- of herkozen beschouwd.
 4. Aan elke voordracht kan het bindend karakter worden ontnomen door een genomen besluit van de algemene vergadering.
 5. Is geen voordracht opgemaakt, dan is de algemene vergadering vrij in de keus.
 6. Het bestuur kiest uit zijn midden een secretaris en een penningmeester. De voorzitter van het bestuur wordt door de algemene vergadering in functie benoemd.
-7. Elk bestuurslid is verplicht een jaar na zijn benoeming af te treden, en wel op de jaarvergadering. Aftredende bestuursleden zijn terstond opnieuw te benomen. Wie in een tussentijdse vacature is benoemd, neemt ten aanzien van het aftreden de plaats van zijn voorganger in.
-8. 
+7. Elk bestuurslid is verplicht een jaar na zijn benoeming af te treden, en wel op de jaarvergadering. Aftredende bestuursleden zijn terstond opnieuw te benoemen. Wie in een tussentijdse vacature is benoemd, neemt ten aanzien van het aftreden de plaats van zijn voorganger in.
+8. Het oprichtingsbestuur heeft vanaf het moment van oprichten een interim status. Na het verstrijken van de interim periode, namelijk 1 september 2014, wordt het bestuur opnieuw voor een jaar benoemd. 
+ 
 
-    8.1
+    9.1
 
     Het bestuurslidmaatschap eindigt voorts:
 
@@ -114,7 +114,7 @@ De geldmiddelen van de vereniging bestaan uit de contributies van de gewone lede
 
     c. indien het bestuurslid onder curatele wordt gesteld.
     
-    8.2.
+    9.2.
     
     De penningmeester en zonodig diens plaatsvervanger kan met onmiddellijke ingang door het bestuur van zijn functie worden ontheven:
     
@@ -122,9 +122,9 @@ De geldmiddelen van de vereniging bestaan uit de contributies van de gewone lede
     
     b. bij gebleken wanbeheer.
     
-9. De algemene vergadering kan een bestuurslid schorsen of ontslaan, indien zij daartoe termen aanwezig acht. Voor een dergelijk besluit in een meerderheid, vereist van tenminste twee/derde van de geldig uitgebrachte stemmen.
-10. De bestuurders zijn bevoegd te alle tijde zelf hun ontslag te nemen, mits dit schriftelijk geschiedt met een opzeggingstermijn van ten minste drie maanden.
-11. Bestuursposities zijn enkel voor leden die ingeschreven staan bij de opleiding Informatica aan de Hogeschool Leiden.
+10. De algemene vergadering kan een bestuurslid schorsen of ontslaan, indien zij daartoe termen aanwezig acht. Voor een dergelijk besluit in een meerderheid, vereist van tenminste twee/derde van de geldig uitgebrachte stemmen.
+11. De bestuurders zijn bevoegd te alle tijde zelf hun ontslag te nemen, mits dit schriftelijk geschiedt met een opzeggingstermijn van ten minste drie maanden.
+12. Bestuursposities zijn enkel voor leden die ingeschreven staan bij de opleiding Informatica aan de Hogeschool Leiden.
 
 ## Taken, vertegenwoordiging en bevoegdheden bestuur
 
