@@ -156,7 +156,7 @@ Voor besluiten tot verwerving en bezwaring van registergoederen en voor het aang
 ### Artikel 10.
 
 1. Het verenigings jaar is gelijk aan het studiejaar, dat loopt van een september tot en met eenendertig augustus. Het eerst boekjaar vangt aan op heden en eindigt op eenendertig augustus tweeduizend veertien.
-2. Het bestuur brengt op een algemene vergadering - de jaarvergadering - binnen zes maanden na afloop van het verenigings jaar, behoudens verlenging van deze termijn door de algemene vergadering, zijn jaarverslag uit en doet, onder overlegging van een balans en een staat van baten en lasten, rekening en verantwoording over zijn in het afgelopen boekjaar gevoerde bestuur.
+2. Het bestuur brengt op een algemene vergadering - de jaarvergadering - binnen zes maanden na afloop van het verenigingsjaar, behoudens verlenging van deze termijn door de algemene vergadering, zijn jaarverslag uit en doet, onder overlegging van een balans en een staat van baten en lasten, rekening en verantwoording over zijn in het afgelopen boekjaar gevoerde bestuur.
 Bedoelde bescheiden worden na goedkeuring van de voorzitter er de penningmeester ondertekend.
 Ontbreekt de handtekening van één van beiden, dan wordt daarvan onder opgaaf van redenen melding gemaakt.
 3. De algemene vergadering benoemt jaarlijks uit de leden een kascommissie van tenminste twee personen, die geen deel mogen uitmaken van het bestuur. De commissie onderzoekt de rekening en verantwoording van het bestuur en brengt aan de algemene vergadering verslag van haar bevindingen uit.
@@ -217,20 +217,20 @@ Ten aanzien van minderjarige leden, die zestien jaar of ouder zijn, geldt dat zi
 ### Artikel 14.
 
 1. Voorzover de wet of deze statuten niet anders bepalen, worden alle besluiten van de algemene vergadering genomen met volstrekte meerderheid van de uitgebrachte stemmen. (de helft plus één)
-2. Alle stemmingen ter vergadering geschieden mondeling, tenzij de voorzitter een schriftelijke stemming gewenst acht of één der stemgerechtigen dit vóór de stemming verlangt. 
+2. Alle stemmingen ter vergadering geschieden mondeling, tenzij de voorzitter een schriftelijke stemming gewenst acht of één der stemgerechtigden dit vóór de stemming verlangt. 
 3. Ten aanzien van het voorzitterschap, notulering en stemmingen van- en in de algemene vergadering kunnen bij huishoudelijke reglement nadere regels worden gegeven. 
 4. Het in een vergadering uitgesproken oordeel van de voorzitter omtrent de uitslag van een stemming is beslissend. 
 Hetzelfde geldt voor de inhoud van een genomen besluit, voor zover werd gestemd over een niet schriftelijk vastgesteld voorstel.
-5. Wordt onmiddelijk na het uitspreken van het in lid 4 bedoelde oordeel van de voorzitter de juistheid daarvan betwist, dan vindt een nieuwe stemming plaats, indien de meerderheid der vergadering dit verlangt.
+5. Wordt onmiddellijk na het uitspreken van het in lid 4 bedoelde oordeel van de voorzitter de juistheid daarvan betwist, dan vindt een nieuwe stemming plaats, indien de meerderheid der vergadering dit verlangt.
 Door een nieuwe stemming vervallen de rechtsgevolgen van de oorspronkelijke stemming.
 6. Een éénstemmig besluit van alle leden, ook al zijn dezen niet in vergadering bijeen, heeft, mits met voorkennis van het bestuur genomen, dezelfde kracht als een besluit van de algemene vergadering.
-Ten aanzien van ontslag van bestuurdleden, fusie met aan andere vereniging, omzetting in een andere rechtspersoon, statutenwijziging en ontbinding dient echter steeds een vergadering te worden uitgeschreven, die moet voldoen een de door de wet of deze staturen gestelde vereisten. 
+Ten aanzien van ontslag van bestuursleden, fusie met aan andere vereniging, omzetting in een andere rechtspersoon, statutenwijziging en ontbinding dient echter steeds een vergadering te worden uitgeschreven, die moet voldoen een de door de wet of deze staturen gestelde vereisten. 
 
 ## Bijeenroeping algemene vergadering
 
 ### Artikel 15.
 
-1. De algemene vergaderingen worden bijeengeroepen door het bestuur. De oproeping gescheidt hetzij schriftelijk aan de adressen van de leden volgens het ledenregister, hetzij door aankondiging op de website. De termijn voor oproeping bedraagt tenminste twee weken.
+1. De algemene vergaderingen worden bijeengeroepen door het bestuur. De oproeping geschiedt hetzij schriftelijk aan de adressen van de leden volgens het ledenregister, hetzij door aankondiging op de website. De termijn voor oproeping bedraagt tenminste twee weken.
 2. De leden worden op een termijn van tenminste één week in kennis gesteld van de in de vergadering te behandelen onderwerpen, op dezelfde wijze als bepaald in lid 1 van dit artikel.
 
 ## Statutenwijziging
@@ -249,15 +249,15 @@ Ten aanzien van ontslag van bestuurdleden, fusie met aan andere vereniging, omze
 
 1. De vereniging kan worden ontbonden door een besluit van de algemene vergadering. Het bepaalde in de leden 1, 2 en 3 van het voorgaande artikel is van overeenkomstige toepassing
 2. Het batig saldo na vereffening wordt ter beschikking gesteld van een door de algemene vergadering bij het besluit tot ontbinding aan te wijzen doel, dat zoveel mogelijk met het doel van de vereniging in overeenstemming is.
-3. De vereffening geschiedt door de daartoe door de algemene vergadering, aangewezen persoon en bij gebreke van een dergelijke aanwijzing door het bestuur van de vereniginhh
-4. De vereffenaars dragen er zorg voor, dat van de ontbinding van de vereniging inschrijven geschiedt in het vorige artkel, lid 5 bedoelde register.
-5. Na afloop van de vereffening bijven de boeken en bescheiden casu qou andere door de wet geaccepteeerde gegevensdragers van de vereniging gedurende tien jaar berusten onder de jongste vereffenaar.
+3. De vereffening geschiedt door de daartoe door de algemene vergadering, aangewezen persoon en bij gebreke van een dergelijke aanwijzing door het bestuur van de vereniging
+4. De vereffenaars dragen er zorg voor, dat van de ontbinding van de vereniging inschrijven geschiedt in het vorige artikel, lid 5 bedoelde register.
+5. Na afloop van de vereffening bijven de boeken en bescheiden casu qou andere door de wet geaccepteerde gegevensdragers van de vereniging gedurende tien jaar berusten onder de jongste vereffenaar.
 
-## Huishoudelijk Regelement
+## Huishoudelijk Reglement
 
 ### Artikel 18.
 
-1. De algemene vergadering kan bij huishoudelijk reglement nadere regels geven omtrent het lidmaatschap, de introductie, het bedrag van de contributie, bijdragen van entreegelden, de werkzaamheden van het bestuur, de vergaderingen, de wijze van uitoefening van het stemrecht, het beheer en gebruik van eigendommen (waardoor registergoederen) van de vereniging, de wijze van inrichting van financiël administratie, en alle verdere onderwerpen, waarvan de regeling haar gewenst voorkomt.
+1. De algemene vergadering kan bij huishoudelijk reglement nadere regels geven omtrent het lidmaatschap, de introductie, het bedrag van de contributie, bijdragen van entreegelden, de werkzaamheden van het bestuur, de vergaderingen, de wijze van uitoefening van het stemrecht, het beheer en gebruik van eigendommen (waardoor registergoederen) van de vereniging, de wijze van inrichting van financiële administratie, en alle verdere onderwerpen, waarvan de regeling haar gewenst voorkomt.
 2. Het huishoudelijk reglement wordt vastgesteld en gewijzigd door de algemene vergadering.
 3. Wijziging van het huishoudelijke reglement kan geschieden bij besluit van de algemene vergadering indien dit schriftelijk wordt verzocht door tenminste één/tiende gedeelte van de leden der vereniging of op voorstel van het bestuur.
 4. Het huishoudelijk reglement zal geen bepalingen mogen bevatten die afwijken van of die in strijd zijn met de bepalingen van de wet of van de statuten, tenzij de afwijking door de wet of de statuten wordt toegestaan.
