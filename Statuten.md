@@ -7,7 +7,7 @@ Statuten van S.V. Syntax Leiden
 ### Artikel 1.
 
 1. De vereniging draagt de naam: Studievereniging Syntax
-2. De vereniging is gevestigd in de gemeente Leiden
+2. De vereniging is gevestigd in de gemeente Haarlem
 3. De vereniging wordt bij deze akte opgericht en is aangegaan voor onbepaalde tijd
 
 ## Doel
@@ -16,13 +16,13 @@ Statuten van S.V. Syntax Leiden
 
 1. De vereniging heeft ten doel, het bevorderen, respectievelijk het doen bevorderen van:
 
-    a. de contacten tussen studenten en medewerkers van de opleiding Informatica aan de Hogeschool Leiden en voorts het organiseren van studiegerichte, dan wel ontspannende activiteiten;
+    a. de contacten tussen studenten onderling en tussen studenten en medewerkers van de opleiding Informatica aan de Hogeschool Leiden en voorts het organiseren van studiegerichte, dan wel ontspannende activiteiten;
     
     b. de kwaliteit van de opleiding zelve;
     
-    c. het vinden respectievelijk aanbieden van stage- en carriëre posities.
+    c. het vinden respectievelijk aanbieden van stage- en carrière posities en het vergroten van betrokkenheid van de studenten van de voorgenoemde opleiding in het werkveld.
     
-2. De vereniging tracht dit doel ondermeer te bereiken door:
+2. De vereniging tracht dit doel onder meer te bereiken door:
 
     a. het bevorderen en organiseren van, of medewerking verlenen aan activiteiten, waarbij de studie respectievelijk het vakgebied centraal staat;
     
@@ -36,22 +36,21 @@ Statuten van S.V. Syntax Leiden
 
 ### Artikel 3.
 
-1. Leden van de vereniging zijn de natuurlijke personen, die als student, als auditor of extraneus bij de Hogeschool Leiden staan ingeschreven en die door het bestuur als lid zijn toegelaten.
-2. Aanmeldingen voor het lidmaatschap dienen schiftelijk of digitaal te geschieden.
+1. Leden van de vereniging zijn de natuurlijke personen die door het bestuur als lid zijn toegelaten, daarbij wordt onderscheid gemaakt tussen: personen die ingeschreven staan bij de opleiding Informatica aan de Hogeschool Leiden, alumni (afgestudeerde studenten Informatica aan de Hogeschool Leiden) en leden buiten de opleiding Informatica aan de Hogeschool Leiden.
+2. Aanmeldingen voor het lidmaatschap dienen schriftelijk of digitaal te geschieden.
 3. De leden zijn gehouden tot het betalen van een jaarlijkse bijdrage(contributie), die door de algemene vergadering wordt vastgesteld.
 4. Het bestuur is bevoegd in bijzondere gevallen gehele of gedeeltelijke ontheffing van de verplichting tot het betalen van een bijdragen te verlenen. Een dergelijk besluit behoeft drie/vierde meerderheid van stemmen in een vergadering, waarin het hele bestuur aanwezig is.
 5. Het bestuur houdt een register bij waarin de namen en adressen van alle leden zijn opgenomen.
 6. Het lidmaatschap is persoonlijk en mitsdien niet overdraagbaar noch vatbaar om door erfopvolging te worden verkregen.
 
-## Erelede/leden van verdienste
+## Ereleden
 
 ### Artikel 4.
 
-1. Ereleden van de vereniging zijn zij, die als zodanig, op voordracht van het bestuur of tenminste vijf leden, door de algemene vergadering zijn benoemd wegens hun bijzondere verdiensten voor vereniging.  Een dergelijk besluit van de algemene vergadering behoeft een meerderheid van twee/derde van de geldig uitgebrachte stemmen.
+1. Ereleden van de vereniging zijn zij, die als zodanig, op voordracht van het bestuur of tenminste vijf leden, door de algemene vergadering zijn benoemd wegens hun bijzondere verdiensten voor de vereniging. Een dergelijk besluit van de algemene vergadering behoeft een meerderheid van twee/derde van de geldig uitgebrachte stemmen.
 2. Ereleden betalen geen jaarlijkse bijdrage.
-3. Leden van verdienste zijn zij die als zodanig, op voordracht van het bestuur of tenminste vijf leden door de algemene vergadering zijn benoemd wegens hun bijzondere verdiensten voor de vereniging
-4. In na te melden huishoudelijk reglement kan een nadere omschrijving worden gegeven van ereleden en leden van verdienste.
-5. Op ereleden en leden van verdienste zijn dezelfde regens van toepassing
+3. In na te melden huishoudelijk reglement kan een nadere omschrijving worden gegeven van ereleden.
+4. Op ereleden zijn dezelfde regels van toepassing als voor andere leden.
 
 ## Begunstigers
 
@@ -69,7 +68,7 @@ Statuten van S.V. Syntax Leiden
 
     a. door opzegging van het lid;
 
-    b. door de dood van het lid;
+    b. door het overlijden van het lid;
     
     c. door opzegging namens de vereniging.
 
@@ -80,9 +79,9 @@ Statuten van S.V. Syntax Leiden
 3. Opzegging van het lidmaatschap door het lid of door de vereniging kan slechts geschieden met inachtneming van een opzeggingstermijn van vier weken. Echter kan het lidmaatschap onmiddellijk worden beëindigd indien van de vereniging of van het lid redelijkerwijs niet gevergd kan worden het lidmaatschap te laten voortduren.
 4. Een opzegging in strijd met het bepaalde in het vorige lid, doet het lidmaatschap eindigen op het vroegst toegelaten tijdstip volgende op de datum waartegen was opgezegd.
 5. Een lid is niet bevoegd door opzegging van zijn lidmaatschap een besluit waarbij de verplichtingen van de leden van geldelijke aard zijn verzwaard, te zijnen opzichte uit te sluiten. 
-6. Ontzetting uit het lidmaatschap geschiedt door het bestuur
+6. Ontzetting uit het lidmaatschap geschiedt door het bestuur.
 7. Van een besluit tot opzegging van het lidmaatschap door de vereniging op grond dat redelijkerwijs van de vereniging niet gevergd kan worden het lidmaatschap te laten voortduren van een besluit tot ontzetting uit het lidmaatschap staat de betrokkene binnen één maand na de ontvangst van de kennisgeving van het besluit beroep open op de algemene vergadering. 
-Hij wordt daartoe ten spoedigste schriftelijk van het besluit met opgave van redenen in kennis gesteld. Gedurende de beroepstermijn en hangende het beroep is het lid geschorst.
+Hij wordt daartoe ten spoedigste schriftelijk van het besluit met opgave van redenen in kennis gesteld. Gedurende de beroepstermijn en hangende het beroep is het lid geschorst. De algemene vergaderingen worden bijeengeroepen door het bestuur. De oproeping geschiedt hetzij schriftelijk of digitaal aan de adressen van de leden volgens het ledenregister, hetzij door aankondiging op de website. De termijn voor oproeping bedraagt tenminste twee weken.
 8. Wanneer het lidmaatschap in de loop van een verenigingsjaar eindigt, blijft de jaarlijkse bijdrage voor het geheel verschuldigd. 
 
 ## Geldmiddelen
@@ -95,14 +94,14 @@ De geldmiddelen van de vereniging bestaan uit de contributies van de gewone lede
 
 ### Artikel 8.
 
-1. Het bestuur bestaat uit tenminste drie personen, die door de algemene vergadering uit de leden van de vereniging worden benoemd, met dienverstande, dat bij deze akte de eerste voorzitter, secretaris en penningmeester worden benoemd.
-2. De benoeming van bestuurdleden geschiedt uit één of meer bindende voordrachten (kandidaatstellingen). Tot het openmaken van zulk een voordracht zijn bevoegd zowel het bestuur als tenminste tien leden.
+1. Het bestuur bestaat uit tenminste drie personen, die door de algemene vergadering uit de leden van de vereniging worden benoemd, met dien verstande, dat bij deze akte de eerste voorzitter, secretaris en penningmeester worden benoemd.
+2. De benoeming van bestuursleden geschiedt uit één of meer bindende voordrachten (kandidaatstellingen). Tot het opmaken van zulk een voordracht zijn bevoegd zowel het bestuur als tenminste tien leden.
 3. Indien in een vacature slechts één kandidaat is gesteld, wordt deze als ge- of herkozen beschouwd.
 4. Aan elke voordracht kan het bindend karakter worden ontnomen door een genomen besluit van de algemene vergadering.
 5. Is geen voordracht opgemaakt, dan is de algemene vergadering vrij in de keus.
 6. Het bestuur kiest uit zijn midden een secretaris en een penningmeester. De voorzitter van het bestuur wordt door de algemene vergadering in functie benoemd.
-7. Elk bestuurslid is verplicht een jaar na zijn benoeming af te treden, en wel op de jaarvergadering. Aftredende bestuursleden zijn terstond opnieuw te benomen. Wie in een tussentijdse vacature is benoemd, neemt ten aanzien van het aftreden de plaats van zijn voorganger in.
-8. 
+7. Elk bestuurslid is verplicht een jaar na zijn benoeming af te treden, en wel op de jaarvergadering. Aftredende bestuursleden zijn terstond opnieuw te benoemen. Wie in een tussentijdse vacature is benoemd, neemt ten aanzien van het aftreden de plaats van zijn voorganger in.
+8. Het oprichtingsbestuur heeft vanaf het moment van oprichten een interim status. Na het verstrijken van de interim periode, namelijk 1 september 2014, wordt het bestuur opnieuw voor een jaar benoemd. 
 
     8.1
 
@@ -114,7 +113,7 @@ De geldmiddelen van de vereniging bestaan uit de contributies van de gewone lede
 
     c. indien het bestuurslid onder curatele wordt gesteld.
     
-    8.2.
+    8.2
     
     De penningmeester en zonodig diens plaatsvervanger kan met onmiddellijke ingang door het bestuur van zijn functie worden ontheven:
     
@@ -130,8 +129,8 @@ De geldmiddelen van de vereniging bestaan uit de contributies van de gewone lede
 
 ### Artikel 9.
 
-1. Behoudens de beperkingen volgens de statuten in het bestuur belast met het besturen van de vereniging. 
-2. De vereniging wordt in en buiten rechte vertegenwoordigd door het gehele bestuurd.
+1. Behoudens de beperkingen volgens de statuten is het bestuur belast met het besturen van de vereniging. 
+2. De vereniging wordt in en buiten rechte vertegenwoordigd door het gehele bestuur.
 De vertegenwoordigingsbevoegdheid komt mede toe aan de volgende leden van het bestuur:
 
     hetzij de voorzitter en de secretaris tezamen;
@@ -141,8 +140,8 @@ De vertegenwoordigingsbevoegdheid komt mede toe aan de volgende leden van het be
     hetzij de secretaris en de penningmeester tezamen.
 
     De bestuursleden kunnen zich daarbij door een schriftelijk gevolmachtigde doen vertegenwoordigen.
-3. Voor het beschikken over bank- en girosaldi is de handtekening van de penningmeester van het bestuur voldoende.
-4. Het bestuur is, mits met goedkeuring van de algemene vergadering, bevoegd tot het sluiten van overeenkomsten tot het kopen, vervreemden en/of bezwaren van registergoederen en het sluiten van overeenkomsten waarbij de vereniging zich als hoofdelijk mede-schuldernaar verbindt, alsmede tot het aangaan van geldleningen en overeenkomsten van verhuur en huur.
+3. Voor het beschikken over bank- en girosaldi is de handtekening van de vertegenwoordigingsbevoegde van het bestuur voldoende.
+4. Het bestuur is, mits met goedkeuring van de algemene vergadering, bevoegd tot het sluiten van overeenkomsten tot het kopen, vervreemden en/of bezwaren van registergoederen en het sluiten van overeenkomsten waarbij de vereniging zich als hoofdelijk mede-schuldenaar verbindt, alsmede tot het aangaan van geldleningen en overeenkomsten van verhuur en huur.
 Op het ontbreken van deze goedkeuring kan door en tegen derden beroep worden gedaan.
 Voor besluiten tot verwerving en bezwaring van registergoederen en voor het aangaan van geldleningen is een besluit vereist, genomen met twee/derde meerderheid van de geldig uitgebrachte stemmen.
 5. Het bestuur behoeft eveneens goedkeuring van de algemene vergadering voor het besluiten tot het aangaan van rechtshandelingen, welke een bedrag of een waarde van vijfduizend euro (€5.000,00) te boven gaan. 
@@ -155,9 +154,9 @@ Voor besluiten tot verwerving en bezwaring van registergoederen en voor het aang
 
 ### Artikel 10.
 
-1. Het verenigings jaar is gelijk aan het studiejaar, dat loopt van een september tot en met eenendertig augustus. Het eerst boekjaar vangt aan op heden en eindigt op eenendertig augustus tweeduizend veertien.
-2. Het bestuur brengt op een algemene vergadering - de jaarvergadering - binnen zes maanden na afloop van het verenigings jaar, behoudens verlenging van deze termijn door de algemene vergadering, zijn jaarverslag uit en doet, onder overlegging van een balans en een staat van baten en lasten, rekening en verantwoording over zijn in het afgelopen boekjaar gevoerde bestuur.
-Bedoelde bescheiden worden na goedkeuring van de voorzitter er de penningmeester ondertekend.
+1. Het verenigingsjaar is gelijk aan het studiejaar, dat loopt van een september tot en met eenendertig augustus. Het eerste boekjaar vangt aan op heden en eindigt op eenendertig augustus tweeduizend veertien.
+2. Het bestuur brengt op een algemene vergadering - de jaarvergadering - binnen zes maanden na afloop van het verenigingsjaar, behoudens verlenging van deze termijn door de algemene vergadering, zijn jaarverslag uit en doet, onder overlegging van een balans en een staat van baten en lasten, rekening en verantwoording over zijn in het afgelopen boekjaar gevoerde bestuur.
+Bedoelde bescheiden worden na goedkeuring van de voorzitter en de penningmeester ondertekend.
 Ontbreekt de handtekening van één van beiden, dan wordt daarvan onder opgaaf van redenen melding gemaakt.
 3. De algemene vergadering benoemt jaarlijks uit de leden een kascommissie van tenminste twee personen, die geen deel mogen uitmaken van het bestuur. De commissie onderzoekt de rekening en verantwoording van het bestuur en brengt aan de algemene vergadering verslag van haar bevindingen uit.
 4. Wenst de kascommissie zich te laten bijstaan door een deskundige, dan kan zij zich met dat verzoek tot het bestuur wenden. Het bestuur beslist omtrent dat verzoek.
@@ -196,10 +195,10 @@ Wordt ook dan de goedkeuring geweigerd, dan neemt de algemene vergadering die ma
 
 ### Artikel 12.
 
-1. Toegang tot de algemene vergadering hebben alle leden, ereleden en leden van verdienste van de vereniging.
+1. Toegang tot de algemene vergadering hebben alle leden en ereleden van de vereniging.
 Geen toegang hebben geschorste leden.
 Bij de behandeling van de schorsing heeft het geschorste lid de bevoegdheid voor dat agendapunt de vergadering bij te wonen en daarover het woord te voeren. Ook ten aanzien van de schorsing heeft het geschorste lid geen stemrecht.
-2. Over toelating van andere dan die in lid 1 bedoelde personen beslist het bestuur
+2. Over toelating van andere dan die in lid 1 bedoelde personen beslist het bestuur.
 3. Ieder lid en erelid van de vereniging, dan niet geschorst is, heeft één stem.
 
 ## Stemrecht en stemmingen
@@ -207,9 +206,9 @@ Bij de behandeling van de schorsing heeft het geschorste lid de bevoegdheid voor
 ### Artikel 13.
 
 1. Begunstigers hebben geen stemrecht
-2. Iemand die onbekwaam is rechtshandelingen uit te verrichten kan in de vergadering geen stem uitbrengen. De uitoefening van het stemrecht komt toe aan de wettelijke vertegenwoordiger van de onbekwame. 
-Ten aanzien van minderjarige leden, die zestien jaar of ouder zijn, geldt dat zij binnen de vereniging geacht worden handelingsbekwaam zijn, zodat zij actief en passief stemrecht en alle rechten en verplichtingen hebben, die meerderjarige leden ook hebben, tenzij uitdrukkelijk ander bepaald.
-3. Een lid kan zijn stem door een schriftelijk daartoe gemachtigd ander lid doen uitbrengen, met dien verstande dat niemand voor meer dan één ander lid stem kan uitbrengen. 
+2. Iemand die onbekwaam is om rechtshandelingen te verrichten kan in de vergadering geen stem uitbrengen. De uitoefening van het stemrecht komt toe aan de wettelijke vertegenwoordiger van de onbekwame. 
+Ten aanzien van minderjarige leden, die zestien jaar of ouder zijn, geldt dat zij binnen de vereniging geacht worden handelingsbekwaam te zijn, zodat zij actief en passief stemrecht en alle rechten en verplichtingen hebben, die meerderjarige leden ook hebben, tenzij uitdrukkelijk anders bepaald.
+3. Een lid kan zijn stem door een schriftelijk daartoe gemachtigd ander lid doen uitbrengen, met dien verstande dat niemand voor meer dan één ander lid een stem kan uitbrengen. 
 4. Een lid heeft geen stemrecht over zaken, die hem, zijn echtgenoot/partner of één van zijn bloed- of aanverwanten in de rechte lijn betreffen.
 
 ## Besluitvorming
@@ -217,20 +216,20 @@ Ten aanzien van minderjarige leden, die zestien jaar of ouder zijn, geldt dat zi
 ### Artikel 14.
 
 1. Voorzover de wet of deze statuten niet anders bepalen, worden alle besluiten van de algemene vergadering genomen met volstrekte meerderheid van de uitgebrachte stemmen. (de helft plus één)
-2. Alle stemmingen ter vergadering geschieden mondeling, tenzij de voorzitter een schriftelijke stemming gewenst acht of één der stemgerechtigen dit vóór de stemming verlangt. 
-3. Ten aanzien van het voorzitterschap, notulering en stemmingen van- en in de algemene vergadering kunnen bij huishoudelijke reglement nadere regels worden gegeven. 
+2. Alle stemmingen ter vergadering geschieden mondeling, tenzij de voorzitter een schriftelijke stemming gewenst acht of één der stemgerechtigden dit vóór de stemming verlangt. 
+3. Ten aanzien van het voorzitterschap, notulering en stemmingen van- en in de algemene vergadering kunnen bij huishoudelijke reglementen nadere regels worden gegeven. 
 4. Het in een vergadering uitgesproken oordeel van de voorzitter omtrent de uitslag van een stemming is beslissend. 
 Hetzelfde geldt voor de inhoud van een genomen besluit, voor zover werd gestemd over een niet schriftelijk vastgesteld voorstel.
-5. Wordt onmiddelijk na het uitspreken van het in lid 4 bedoelde oordeel van de voorzitter de juistheid daarvan betwist, dan vindt een nieuwe stemming plaats, indien de meerderheid der vergadering dit verlangt.
+5. Wordt onmiddellijk na het uitspreken van het in lid 4 bedoelde oordeel van de voorzitter de juistheid daarvan betwist, dan vindt een nieuwe stemming plaats, indien de meerderheid der vergadering dit verlangt.
 Door een nieuwe stemming vervallen de rechtsgevolgen van de oorspronkelijke stemming.
 6. Een éénstemmig besluit van alle leden, ook al zijn dezen niet in vergadering bijeen, heeft, mits met voorkennis van het bestuur genomen, dezelfde kracht als een besluit van de algemene vergadering.
-Ten aanzien van ontslag van bestuurdleden, fusie met aan andere vereniging, omzetting in een andere rechtspersoon, statutenwijziging en ontbinding dient echter steeds een vergadering te worden uitgeschreven, die moet voldoen een de door de wet of deze staturen gestelde vereisten. 
+Ten aanzien van ontslag van bestuursleden, fusie met aan andere vereniging, omzetting in een andere rechtspersoon, statutenwijziging en ontbinding dient echter steeds een vergadering te worden uitgeschreven, die moet voldoen een de door de wet of deze statuten gestelde vereisten. 
 
 ## Bijeenroeping algemene vergadering
 
 ### Artikel 15.
 
-1. De algemene vergaderingen worden bijeengeroepen door het bestuur. De oproeping gescheidt hetzij schriftelijk aan de adressen van de leden volgens het ledenregister, hetzij door aankondiging op de website. De termijn voor oproeping bedraagt tenminste twee weken.
+1. De algemene vergaderingen worden bijeengeroepen door het bestuur. De oproeping geschiedt hetzij schriftelijk aan de adressen of e-mailadressen van de leden volgens het ledenregister, hetzij door aankondiging op de website. De termijn voor oproeping bedraagt tenminste twee weken.
 2. De leden worden op een termijn van tenminste één week in kennis gesteld van de in de vergadering te behandelen onderwerpen, op dezelfde wijze als bepaald in lid 1 van dit artikel.
 
 ## Statutenwijziging
@@ -241,23 +240,23 @@ Ten aanzien van ontslag van bestuurdleden, fusie met aan andere vereniging, omze
 2. Zij die de oproeping tot de algemene vergadering ter behandeling van een voorstel tot statutenwijziging hebben gedaan, moeten tenminste vijf dagen vóór de vergadering een afschrift van dat voorstel, waarin de voorgedragen wijziging woordelijk is opgenomen, op een daartoe geschikte plaats voor de leden ter inzage leggen tot na afloop van de dag waarop de vergadering wordt gehouden. Bovendien wordt een afschrift als hiervoor bedoeld of aan alle leden toegezonden of opgenomen in het artikel 15 bedoelde blad.
 3. Een besluit tot statutenwijziging behoeft tenminste twee/derde van de uitgebrachte stemmen, in een vergadering waarin tenminste twee/derde van de leden tegenwoordig of vertegenwoordigd, dan wordt binnen vier weken daarna een tweede vergadering bijeengeroepen en gehouden, waarin over het voorstel zoals dat in de vorige vergadering aan de orde is geweest, ongeacht het aantal tegenwoordige of vertegenwoordigde leden, kan worden besloten, mits met een meerderheid van tenminste twee/derde van de uitgebrachte stemmen.
 4. Een statutenwijziging treedt niet in werking dan nadat hiervan een notariële akte is opgemaakt. Tot het doen verlijden van de akte is ieder bestuurslid bevoegd.
-5. De leden van het bestuur zijn verplicht een authentiek afschrift van de wijziging, alsmede de gewijzigde statuten neer te leggen ten kantore van het Handelsregister, gehouden door de Kamer van Koophandel en Fabrieken, binnen welker gebied de vereniging haar zetel heeft.
+5. De leden van het bestuur zijn verplicht een authentiek afschrift van de wijziging, alsmede de gewijzigde statuten neer te leggen ten kantore van het Handelsregister, gehouden door de Kamer van Koophandel, binnen welker gebied de vereniging haar zetel heeft.
 
 ## Ontbinding
 
 ### Artikel 17.
 
-1. De vereniging kan worden ontbonden door een besluit van de algemene vergadering. Het bepaalde in de leden 1, 2 en 3 van het voorgaande artikel is van overeenkomstige toepassing
+1. De vereniging kan worden ontbonden door een besluit van de algemene vergadering. Het bepaalde in de leden 1, 2 en 3 van het voorgaande artikel is van overeenkomstige toepassing.
 2. Het batig saldo na vereffening wordt ter beschikking gesteld van een door de algemene vergadering bij het besluit tot ontbinding aan te wijzen doel, dat zoveel mogelijk met het doel van de vereniging in overeenstemming is.
-3. De vereffening geschiedt door de daartoe door de algemene vergadering, aangewezen persoon en bij gebreke van een dergelijke aanwijzing door het bestuur van de vereniginhh
-4. De vereffenaars dragen er zorg voor, dat van de ontbinding van de vereniging inschrijven geschiedt in het vorige artkel, lid 5 bedoelde register.
-5. Na afloop van de vereffening bijven de boeken en bescheiden casu qou andere door de wet geaccepteeerde gegevensdragers van de vereniging gedurende tien jaar berusten onder de jongste vereffenaar.
+3. De vereffening geschiedt door de daartoe door de algemene vergadering, aangewezen persoon en bij gebreke van een dergelijke aanwijzing door het bestuur van de vereniging.
+4. De vereffenaars dragen er zorg voor, dat van de ontbinding van de vereniging inschrijven geschiedt in het vorige artikel, lid 5 bedoelde register.
+5. Na afloop van de vereffening blijven de boeken en bescheiden casu quo andere door de wet geaccepteerde gegevensdragers van de vereniging gedurende tien jaar berusten onder de jongste vereffenaar.
 
-## Huishoudelijk Regelement
+## Huishoudelijk Reglement
 
 ### Artikel 18.
 
-1. De algemene vergadering kan bij huishoudelijk reglement nadere regels geven omtrent het lidmaatschap, de introductie, het bedrag van de contributie, bijdragen van entreegelden, de werkzaamheden van het bestuur, de vergaderingen, de wijze van uitoefening van het stemrecht, het beheer en gebruik van eigendommen (waardoor registergoederen) van de vereniging, de wijze van inrichting van financiël administratie, en alle verdere onderwerpen, waarvan de regeling haar gewenst voorkomt.
+1. De algemene vergadering kan bij huishoudelijk reglement nadere regels geven omtrent het lidmaatschap, de introductie, het bedrag van de contributie, bijdragen van entreegelden, de werkzaamheden van het bestuur, de vergaderingen, de wijze van uitoefening van het stemrecht, het beheer en gebruik van eigendommen (waaronder registergoederen) van de vereniging, de wijze van inrichting van financiële administratie, en alle verdere onderwerpen, waarvan de regeling haar gewenst voorkomt.
 2. Het huishoudelijk reglement wordt vastgesteld en gewijzigd door de algemene vergadering.
 3. Wijziging van het huishoudelijke reglement kan geschieden bij besluit van de algemene vergadering indien dit schriftelijk wordt verzocht door tenminste één/tiende gedeelte van de leden der vereniging of op voorstel van het bestuur.
 4. Het huishoudelijk reglement zal geen bepalingen mogen bevatten die afwijken van of die in strijd zijn met de bepalingen van de wet of van de statuten, tenzij de afwijking door de wet of de statuten wordt toegestaan.
