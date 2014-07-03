@@ -102,9 +102,8 @@ De geldmiddelen van de vereniging bestaan uit de contributies van de gewone lede
 6. Het bestuur kiest uit zijn midden een secretaris en een penningmeester. De voorzitter van het bestuur wordt door de algemene vergadering in functie benoemd.
 7. Elk bestuurslid is verplicht een jaar na zijn benoeming af te treden, en wel op de jaarvergadering. Aftredende bestuursleden zijn terstond opnieuw te benoemen. Wie in een tussentijdse vacature is benoemd, neemt ten aanzien van het aftreden de plaats van zijn voorganger in.
 8. Het oprichtingsbestuur heeft vanaf het moment van oprichten een interim status. Na het verstrijken van de interim periode, namelijk 1 september 2014, wordt het bestuur opnieuw voor een jaar benoemd. 
- 
 
-    9.1
+    8.1
 
     Het bestuurslidmaatschap eindigt voorts:
 
@@ -114,7 +113,7 @@ De geldmiddelen van de vereniging bestaan uit de contributies van de gewone lede
 
     c. indien het bestuurslid onder curatele wordt gesteld.
     
-    9.2.
+    8.2
     
     De penningmeester en zonodig diens plaatsvervanger kan met onmiddellijke ingang door het bestuur van zijn functie worden ontheven:
     
@@ -122,9 +121,9 @@ De geldmiddelen van de vereniging bestaan uit de contributies van de gewone lede
     
     b. bij gebleken wanbeheer.
     
-10. De algemene vergadering kan een bestuurslid schorsen of ontslaan, indien zij daartoe termen aanwezig acht. Voor een dergelijk besluit in een meerderheid, vereist van tenminste twee/derde van de geldig uitgebrachte stemmen.
-11. De bestuurders zijn bevoegd te alle tijde zelf hun ontslag te nemen, mits dit schriftelijk geschiedt met een opzeggingstermijn van ten minste drie maanden.
-12. Bestuursposities zijn enkel voor leden die ingeschreven staan bij de opleiding Informatica aan de Hogeschool Leiden.
+9. De algemene vergadering kan een bestuurslid schorsen of ontslaan, indien zij daartoe termen aanwezig acht. Voor een dergelijk besluit in een meerderheid, vereist van tenminste twee/derde van de geldig uitgebrachte stemmen.
+10. De bestuurders zijn bevoegd te alle tijde zelf hun ontslag te nemen, mits dit schriftelijk geschiedt met een opzeggingstermijn van ten minste drie maanden.
+11. Bestuursposities zijn enkel voor leden die ingeschreven staan bij de opleiding Informatica aan de Hogeschool Leiden.
 
 ## Taken, vertegenwoordiging en bevoegdheden bestuur
 
