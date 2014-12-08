@@ -36,7 +36,7 @@ Statuten van S.V. Syntax Leiden
 
 ### Artikel 3.
 
-1. Leden van de vereniging zijn de natuurlijke personen die door het bestuur als lid zijn toegelaten, daarbij wordt onderscheid gemaakt tussen: personen die ingeschreven staan bij de opleiding Informatica aan de Hogeschool Leiden, alumni (afgestudeerde studenten Informatica aan de Hogeschool Leiden) en leden buiten de opleiding Informatica aan de Hogeschool Leiden.
+1. Leden van de vereniging zijn de natuurlijke personen die door het bestuur als lid zijn toegelaten, daarbij wordt onderscheid gemaakt tussen: personen die ingeschreven staan bij de opleiding Informatica aan de Hogeschool Leiden, alumni (afgestudeerde studenten Informatica aan de Hogeschool Leiden) en leden buiten de opleiding Informatica en ook buiten de Hogeschool Leiden.
 2. Aanmeldingen voor het lidmaatschap dienen schriftelijk of digitaal te geschieden.
 3. De leden zijn gehouden tot het betalen van een jaarlijkse bijdrage(contributie), die door de algemene vergadering wordt vastgesteld.
 4. Het bestuur is bevoegd in bijzondere gevallen gehele of gedeeltelijke ontheffing van de verplichting tot het betalen van een bijdragen te verlenen. Een dergelijk besluit behoeft drie/vierde meerderheid van stemmen in een vergadering, waarin het hele bestuur aanwezig is.
