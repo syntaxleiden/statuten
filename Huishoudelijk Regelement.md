@@ -7,6 +7,8 @@ Huishoudelijk regelement van S.V. Syntax Leiden
 ### Artikel 1.
 De contributie voor het studiejaar 2014-2015 bedraagt €13,37. Dit is een jaarlijks bedrag en is onafhankelijk van het moment van lid worden en is niet restitueerbaar.
 
+Voor alumni (oud-leden) van S.V. Syntax die reeds zijn afgestudeerd geldt een gereduceerde contributie van €5.
+
 ## Betaling contributiegelden
 
 ### Artikel 2.
