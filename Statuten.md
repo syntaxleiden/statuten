@@ -72,9 +72,11 @@ Statuten van S.V. Syntax Leiden
     
     c. door opzegging namens de vereniging.
 
-     Deze kan geschieden wanneer een lid heeft opgehouden aan de vereisten voor het lidmaatschap bij de statuten gesteld te voldoen, wanneer hij zijn verplichtingen jegens de vereniging niet nakomt, als ook wanneer redelijkerwijs van de vereniging niet gevergd kan worden het lidmaatschap te laten voortduren;
+    Deze kan geschieden wanneer een lid heeft opgehouden aan de vereisten voor het lidmaatschap bij de statuten gesteld te voldoen, wanneer hij zijn verplichtingen jegens de vereniging niet nakomt, als ook wanneer redelijkerwijs van de vereniging niet gevergd kan worden het lidmaatschap te laten voortduren;
+    
     d. door ontzegging.
     Deze kan alleen worden uitgesproken wanneer een lid in strijd met de statuten, reglementen of besluiten der vereniging handelt, of de vereniging op onredelijke wijze benadeelt.
+
 2. Opzegging namens de vereniging geschiedt door het bestuur.
 3. Opzegging van het lidmaatschap door het lid of door de vereniging kan slechts geschieden met inachtneming van een opzeggingstermijn van vier weken. Echter kan het lidmaatschap onmiddellijk worden beëindigd indien van de vereniging of van het lid redelijkerwijs niet gevergd kan worden het lidmaatschap te laten voortduren.
 4. Een opzegging in strijd met het bepaalde in het vorige lid, doet het lidmaatschap eindigen op het vroegst toegelaten tijdstip volgende op de datum waartegen was opgezegd.
@@ -101,29 +103,23 @@ De geldmiddelen van de vereniging bestaan uit de contributies van de gewone lede
 5. Is geen voordracht opgemaakt, dan is de algemene vergadering vrij in de keus.
 6. Het bestuur kiest uit zijn midden een secretaris en een penningmeester. De voorzitter van het bestuur wordt door de algemene vergadering in functie benoemd.
 7. Elk bestuurslid is verplicht een jaar na zijn benoeming af te treden, en wel op de jaarvergadering. Aftredende bestuursleden zijn terstond opnieuw te benoemen. Wie in een tussentijdse vacature is benoemd, neemt ten aanzien van het aftreden de plaats van zijn voorganger in.
-8. Het oprichtingsbestuur heeft vanaf het moment van oprichten een interim status. Na het verstrijken van de interim periode, namelijk 1 september 2014, wordt het bestuur opnieuw voor een jaar benoemd. 
+8.	Het bestuurslidmaatschap eindigt voorts:
 
-    8.1
+	a.	door het eindigen van het lidmaatschap van de vereniging;
 
-    Het bestuurslidmaatschap eindigt voorts:
+	b.	door bedanken;
+	
+	c.	indien het bestuurslid onder curatele wordt gesteld.
 
-    a. door het eindigen van het lidmaatschap van de vereniging;
+9.	De penningmeester en zonodig diens plaatsvervanger kan met onmiddellijke ingang door het bestuur van zijn functie worden ontheven:
 
-    b. door bedanken;
+	a.	bij faillissement, indien hij surséance van betaling aanvraagt of krijgt of bij toepassing van wettelijke schuldsanering; en
 
-    c. indien het bestuurslid onder curatele wordt gesteld.
-    
-    8.2
-    
-    De penningmeester en zonodig diens plaatsvervanger kan met onmiddellijke ingang door het bestuur van zijn functie worden ontheven:
-    
-    a. bij faillissement, indien hij surséance van betaling aanvraagt of krijgt of bij toepassing van wettelijke schuldsanering; en
-    
-    b. bij gebleken wanbeheer.
-    
-9. De algemene vergadering kan een bestuurslid schorsen of ontslaan, indien zij daartoe termen aanwezig acht. Voor een dergelijk besluit in een meerderheid, vereist van tenminste twee/derde van de geldig uitgebrachte stemmen.
-10. De bestuurders zijn bevoegd te alle tijde zelf hun ontslag te nemen, mits dit schriftelijk geschiedt met een opzeggingstermijn van ten minste drie maanden.
-11. Bestuursposities zijn enkel voor leden die ingeschreven staan bij de opleiding Informatica aan de Hogeschool Leiden.
+	b.	bij gebleken wanbeheer.
+
+10. De algemene vergadering kan een bestuurslid schorsen of ontslaan, indien zij daartoe termen aanwezig acht. Voor een dergelijk besluit in een meerderheid, vereist van tenminste twee/derde van de geldig uitgebrachte stemmen.
+11. De bestuurders zijn bevoegd te alle tijde zelf hun ontslag te nemen, mits dit schriftelijk geschiedt met een opzeggingstermijn van ten minste drie maanden.
+12. Bestuursposities zijn enkel voor leden die ingeschreven staan bij de opleiding Informatica aan de Hogeschool Leiden.
 
 ## Taken, vertegenwoordiging en bevoegdheden bestuur
 
