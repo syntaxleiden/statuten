@@ -28,7 +28,7 @@ Bij S.V. Syntax staat veiligheid, respect en gelijkheid hoog in het vaandel. Om 
     - Er wordt bijzondere aandacht besteed aan de veiligheid, gezondheid en welzijn van de leden.
     - Voor hen die zich schuldig maken aan ongewenst gedrag worden passende maatregelen vastgesteld.
     - Er is een vertrouwenspersoon aangesteld, die slachtoffers van ongewenst gedrag bijstaat en op zorgvuldige wijze klachten behandelt.
-  3. Het bestuur heeft een vertrouwenspersoon aangesteld. Deze functie wordt bekleed door Assessor Intern en zal bij afwezigheid vervangen door de Vicevoorzitter.
+  3. Het bestuur heeft een vertrouwenspersoon aangesteld. Deze functie wordt bekleed door de Vicevoorzitter en zal bij afwezigheid vervangen worden door de Voorzitter.
   4. Hoofdregel is dat iedereen zich dient te onthouden van seksueel misbruik en seksuele intimidatie.
   5. Een ieder zorgt voor een omgeving en sfeer waarbinnen andere zich veilig voelen.
   6. Een ieder onthoudt zich ervan een ander te bejegenen op een wijze dat hij/zij zich in zijn/haar waardigheid voelt aangetast en verder in het privéleven van andere door te dringen dan nodig is voor het gestelde doel van de vereniging.
